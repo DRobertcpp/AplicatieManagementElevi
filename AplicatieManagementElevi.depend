@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1674588769 source:c:\users\robert\source\repos\aplicatiemanagementelevi\aplicatiemanagementelevi\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<stdbool.h>
+
+1674218182 source:c:\users\robert\source\repos\aplicatiemanagementelevi\aplicatiemanagementelevi\function.c
+
+1674218503 c:\users\robert\source\repos\aplicatiemanagementelevi\aplicatiemanagementelevi\funct.h
+
+1674218604 source:c:\users\robert\source\repos\aplicatiemanagementelevi\aplicatiemanagementelevi\funct.cpp
+	<iostream>
+
